@@ -1,0 +1,49 @@
+# ──────────────────────────────
+# 🌐 Node / Next.js
+# ──────────────────────────────
+node_modules
+.next
+out
+dist
+
+# 🔧 Sistema
+.DS_Store
+Thumbs.db
+
+# ⚙️ Ambientes / Configurações Locais
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# 🧩 Banco de Dados Prisma
+/dev.db
+*.sqlite
+*.db-journal
+prisma/dev.db
+
+# 🪶 Logs e caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+.cache
+.vscode
+
+# 🔒 Compilados / Build temporário
+*.tsbuildinfo
+
+# 📸 Uploads temporários
+/public/uploads
+
+# 🧪 Testes / Coverage
+coverage
+
+# ──────────────────────────────
+# 📁 Extras do seu projeto
+# ──────────────────────────────
+.generated
+/generated/prisma
+.github/instructions/codacy.instructions.md
