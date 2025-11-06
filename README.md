@@ -83,8 +83,8 @@ npx prisma migrate dev --name init
 npm run dev
 ```
 
-Acesse:
-👉 **[http://localhost:3000](http://localhost:3000)**
+Acesse sistema diretamente pela rota de autenticação::
+👉 **[http://localhost:3000/auth/login](http://localhost:3000/auth/login)**
 
 ---
 
