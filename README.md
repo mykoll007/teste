@@ -52,7 +52,7 @@ Projeto desenvolvido como parte do **teste técnico para vaga de Desenvolvedor(a
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/PaollaDionisio/nextjs-auth-affinity-test.git
+git clone https://github.com/mykoll007/teste.git
 
 # 2. Acesse a pasta
 cd nextjs-auth-affinity-test
@@ -60,8 +60,8 @@ cd nextjs-auth-affinity-test
 # 3. Instale as dependências
 npm install
 
-# 4. Configure as variáveis de ambiente
-cp .env.example .env
+# 4. Crie um arquivo env para ter as variáveis de ambiente
+
 ```
 
 ### Exemplo de `.env`
@@ -110,7 +110,7 @@ Acesse:
 ├── prisma/
 │   └── schema.prisma
 ├── middleware.ts
-├── .env.example
+├── .env
 ├── package.json
 └── README.md
 ```
