@@ -88,6 +88,17 @@ Acesse sistema diretamente pela rota de autenticação::
 
 ---
 
+## 🗄️ Visualizar o Banco de Dados
+
+* Para visualizar e editar os dados do banco com o Prisma Studio, execute:
+
+npx prisma studio
+
+
+* Isso abrirá uma interface gráfica no navegador (geralmente em
+👉 http://localhost:5555
+) onde é possível visualizar as tabelas, registros e relações.
+
 ## 🧩 Estrutura do Projeto
 
 ```
