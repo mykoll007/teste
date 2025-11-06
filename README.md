@@ -55,7 +55,7 @@ Projeto desenvolvido como parte do **teste técnico para vaga de Desenvolvedor(a
 git clone https://github.com/mykoll007/teste.git
 
 # 2. Acesse a pasta
-cd nextjs-auth-affinity-test
+cd test
 
 # 3. Instale as dependências
 npm install
