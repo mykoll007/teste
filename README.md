@@ -92,7 +92,7 @@ Acesse sistema diretamente pela rota de autenticação::
 
 Para visualizar e editar os dados do banco com o Prisma Studio, execute:
 
-``` npx prisma studio
+``` npx prisma studio ```
 
 
  Isso abrirá uma interface gráfica no navegador (geralmente em
